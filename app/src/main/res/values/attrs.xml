@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="InfoAnimView">
+        <attr name="iav_civ" format="reference" />
+        <attr name="iav_civ_border_color" format="color" />
+        <attr name="iav_civ_border_width" format="dimension" />
+        <attr name="iav_civ_width" format="dimension" />
+        <attr name="iav_civ_height" format="dimension" />
+        <attr name="iav_icon" format="reference" />
+        <attr name="iav_desc" format="string" />
+        <attr name="iav_desc_text_size" format="dimension" />
+        <attr name="iav_desc_text_color" format="color" />
+    </declare-styleable>
+
+</resources>

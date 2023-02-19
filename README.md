@@ -3,7 +3,5 @@
 
 ![静态图片](https://wx1.sinaimg.cn/mw690/6de6fe13gy1giq74p19w7j21402g078q.jpg)  
 
-https://wx1.sinaimg.cn/mw690/6de6fe13gy1giq74p19w7j21402g078q.jpg
-
 [视频传送门](https://weibo.com/tv/show/1034:4549073907417091?from=old_pc_videoshow)  
 
